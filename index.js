@@ -4,7 +4,7 @@ xmpp.connect( {
     "jid": "admin@localhost",
     "password": "123abc",
     "host": "localhost",
-    "port": 41011
+    "port": 5222
 } )
 
 xmpp.on( "online", data => {
